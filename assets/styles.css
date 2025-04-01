@@ -275,6 +275,18 @@ h2 {
 }
 
 @media (max-width: 425px) {
+  .main-page {
+    margin-top: 108px;
+    padding: 10px;
+    background-color: #ffba00;
+  }
+  .ytvideo-star {
+    height: 200px;
+    width: 100%;
+    border-radius: 4px;
+    padding: 0 5px 0 5px;
+  }
+
   .btns > a {
     margin-top: 10px;
   }
